@@ -5,7 +5,7 @@ Webex Meeting Information
 Meeting number (access code): 2519 8300 504 
 Meeting password: 762435
 Host key: Click To Get
-
+https://datahub.auo.com/Webex_DMZ_API/Webex/GetHostKey?a=25198300504&b=762435&c=https://auomeeting.webex.com/auomeeting/j.php?MTID=m0161514d4b5d47b1e6b0f220888b5198
 
 
  
@@ -17,7 +17,7 @@ Every day, from June 19, 2025 to July 20, 2025
 
 	
 Start meeting
-
+https://auomeeting.webex.com/auomeeting/j.php?MTID=m0161514d4b5d47b1e6b0f220888b5198
 	
 
 
